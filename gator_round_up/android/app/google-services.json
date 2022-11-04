@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1049002475017",
+    "project_id": "gatorroundup",
+    "storage_bucket": "gatorroundup.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049002475017:android:a8369d4dd19fcb896d82d8",
+        "android_client_info": {
+          "package_name": "com.example.gator_round_up"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049002475017-mog4cmpdarvn4mjbs21mm1ove74dhrm3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzEyTmJi1prta7PYFjHJilMsnKn4_Zkxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049002475017-mog4cmpdarvn4mjbs21mm1ove74dhrm3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1049002475017-dd7ebcjr7hdu00p16usglio532hvvs3m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gatorRoundUp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
